@@ -1,0 +1,16 @@
+CategoryCode,CategoryName
+E1,Electrical – General
+E2,Electrical – Lighting
+E3,Electrical – Controls/EMS
+H1,HVAC – General
+H2,HVAC – RTUs/Splits
+H3,Heating – Gas/Electric
+R1,Refrigeration – Rack/Compressor
+R2,Refrigeration – Cases/Walk-ins
+R3,Refrigeration – Ice Machines
+P1,Plumbing – General
+D1,Doors/Docks/Overhead
+G1,General Building/Handyman
+S1,Signage/Glass
+C1,Cleaning/Janitorial
+X9,Other / Uncoded
