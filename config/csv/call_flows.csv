@@ -1,0 +1,10 @@
+StepCode,Description
+S001,"Greeting – answer with ""HDS Service Desk—how may I help you?"""
+S002,Determine caller type – service request vs general inquiry
+S003,Verify customer – existing or new; ask for store number or full address
+S004,"Gather core details – caller name, callback number, store number, trade/equipment, issue description, priority (Emergency, Urgent, Routine), overtime authorization, PO/billing"
+S005,Confirm & summarize – read back details and provide ticket ID and response time
+S006,Dispatch & escalation – based on priority; follow escalation chain
+S007,"Triage questions – trade-specific questions (e.g., for refrigeration: running warm? products? wait 24 hrs? breaker checked? leakage?)"
+S008,"Emergency failsafe – instruct caller to call 911 first if life-safety emergency, then call HDS emergency line"
+S009,Closing – thank caller and remind them of follow-up or status update
